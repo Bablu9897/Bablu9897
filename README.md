@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://teenubablu1234.hackerresume.io/ecdf6050-7e1a-4fe5-9bee-dcd5b8211339](https://teenubablu1234.hackerresume.io/ecdf6050-7e1a-4fe5-9bee-dcd5b8211339)
 
-- ⚡ Fun fact **I am devotee of 🕉Shiv ji🔱**
+- ⚡ **I am devotee of 🕉Shiv ji🔱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
