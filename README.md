@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bablu Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **AI & ML Internship**
+- 🔭 I’m currently working on **MyNextFilm Pvt. Ltd. Delhi**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 💬 Ask me about **Python, MySQL,AI &ML,C**
+- 💬 Ask me about **Python, MySQL,AI & ML,C**
 
 - 📫 How to reach me **teenubablu1234@gmail.com**
 
 - 📄 Know about my experiences [https://teenubablu1234.hackerresume.io/ecdf6050-7e1a-4fe5-9bee-dcd5b8211339](https://teenubablu1234.hackerresume.io/ecdf6050-7e1a-4fe5-9bee-dcd5b8211339)
 
-- ⚡ Fun fact **I am Shiv ji Lover**
+- ⚡ Fun fact **I am devotee of 🕉Shiv ji🔱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
